@@ -2,7 +2,7 @@
 
 《JavaScript 权威指南第七版》中文翻译
 
-在线阅读：[https://javascript-the-definitive-guide-7th.books.scottwu.cn/)
+[在线阅读](https://javascript-the-definitive-guide-7th.books.scottwu.cn/)
 
 ![](https://raw.githubusercontent.com/wyx-scottwu/JavaScript-The-Definitive-Guide-7th/main/docs/cover.jpg)
 
