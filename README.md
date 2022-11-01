@@ -5,7 +5,6 @@
 在线阅读：[http://js.2019919.xyz/](http://js.2019919.xyz/)
 
 ![](./docs/cover.jpg)
-<img src="./docs/cover.jpg" width=24% />
 
 ## 目录
 
