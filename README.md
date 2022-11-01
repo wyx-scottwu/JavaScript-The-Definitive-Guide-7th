@@ -4,7 +4,7 @@
 
 在线阅读：[http://js.2019919.xyz/](http://js.2019919.xyz/)
 
-<img src="./docs/cover.jpg" width=24% />
+<img src="./docs/cover.jpg" width=100% />
 
 ## 目录
 
