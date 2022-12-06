@@ -1,6 +1,7 @@
 # Table of contents
 
-* [《JavaScript 权威指南第七版》中文翻译](README.md)
+* [目录](README.md)
+* [《JavaScript 权威指南第七版》中文翻译](<README (1).md>)
   * [第 1 章 JavaScript 概述](javascript-quan-wei-zhi-nan-di-qi-ban-zhong-wen-fan-yi/di-1-zhang-javascript-gai-shu.md)
   * [第 2 章 词法结构](javascript-quan-wei-zhi-nan-di-qi-ban-zhong-wen-fan-yi/di-2-zhang-ci-fa-jie-gou.md)
   * [第 3 章 类型、值和变量](javascript-quan-wei-zhi-nan-di-qi-ban-zhong-wen-fan-yi/di-3-zhang-lei-xing-zhi-he-bian-liang.md)
